@@ -1,0 +1,7 @@
+
+.rot{
+    transform: rotate(-90deg);
+    margin-left: 270px;
+    padding: 100px;
+    padding-bottom: 300px;
+}

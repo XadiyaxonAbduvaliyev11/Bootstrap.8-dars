@@ -1,0 +1,25 @@
+.shadow{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    vertical-align: center;
+
+}
+.shadow1{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.shadow:hover{
+    background-color: deepskyblue;
+    text-decoration: none;
+    color: white;
+}
+.shadow1:hover{
+    background-color: deepskyblue;
+    text-decoration: none;
+    color: white;
+}
+.zt1{
+    margin-top: 15px;
+}

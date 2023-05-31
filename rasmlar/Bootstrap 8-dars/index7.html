@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main7.css">
+</head>
+<body>
+
+<h3 class="mx-3">navbar Example</h3>
+<nav class="navbar navbar-expand-md navbar-dark nav-rang position-sticky sticky-top">
+    <div class="container">
+        <a href="#" type="button" class="btn text-white">Web</a>
+        <a href="#" type="button" class="btn text-white active">Home</a>
+        <a href="#" type="button" class="btn text-white">PHP</a>
+        <a href="#" type="button" class="btn text-white">jQuery</a>
+        <div class="d-inline-block dropdown">
+            <a href="#" type="button" class="btn text-white dropdown-toggle active" data-toggle="dropdown">Bootstrap</a>
+            <ul class="dropdown-menu">
+                <li class="dropdown-item"><a href="#" class=""></a>Carousel</li>
+                <li class="dropdown-item"><a href="#" class=""></a>Forms</li>
+                <hr class="bg-light">
+                <li class="dropdown-item"><a href="#" class=""></a>Select</li>
+            </ul>
+        </div>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#mainMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <input type="text" placeholder="Find topics">
+        <button class="btn btn-primary mx-1">GO</button>
+        <div class="collapse navbar-collapse" id="mainMenu">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a href="#" class="nav-link dropdown-toggle">About</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<script src="js/jQuery.min.js"></script>
+<script src="js/src/popover.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>

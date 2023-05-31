@@ -1,0 +1,17 @@
+.nav-rang{
+    background-color: #69899F;
+}
+.btn:hover{
+    background-color: #425766 !important;
+}
+.btn:active{
+    background-color: #425766 !important;
+}
+.dropdown-menu{
+    margin-top: 8.5px !important;
+    background-color: #69899F !important;
+}
+.dropdown-item
+{
+    color: white; !important;
+}

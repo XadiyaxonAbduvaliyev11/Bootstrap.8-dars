@@ -1,0 +1,51 @@
+.item{
+    background-color: #7313ce;
+    color: white;
+}
+.ed{
+    background-color: aqua;
+    color: white;
+}
+.ss{
+    border: 1px solid #7313ce;
+}
+.sss{
+    border: 1px solid #7313ce;
+}
+.ddd{
+    border: 1px solid blue;
+}
+.aa{
+    border: 1px solid red;
+}
+.x{
+    margin-top: -385px;
+    margin-left: -1px;
+}
+.xx{
+    margin-top: -385px;
+}
+.dd{
+    background-color: limegreen;
+    color: white;
+}
+.w{
+    width: 300px;
+}
+.ww{
+    border: 1px solid limegreen;
+}
+.nn{
+    background-color: limegreen;
+    color: white;
+}
+.nnn{
+    border: 1px solid limegreen;
+}
+.f{
+    margin-left: 50px;
+}
+.ff{
+    margin-left: 860px;
+    margin-top: -210px;
+}
